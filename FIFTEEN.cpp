@@ -1,3 +1,6 @@
+
+// NOTE!! THIS IS INCREASING SPACE AND DECREASING STAR
+
 #include <iostream>
 using namespace std;
 
