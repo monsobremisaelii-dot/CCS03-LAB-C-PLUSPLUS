@@ -21,7 +21,7 @@ int main ()
 
         A = AreaR (L, W);
 
-        cout << "Area: " << A;
+        cout << "Area of the rectangle: " << A;
     }
 
     return 0;
