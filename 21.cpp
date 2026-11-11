@@ -12,7 +12,7 @@ int main()
     cout << "Enter a Number: ";
     cin >> number;
 
-    if (number < 0 || number > 20)
+    if (number < 1 || number > 20)
     {
         cout << "PLEASE ENTER A NUMBER FROM 1 TO 20 ONLY. ";
     }
