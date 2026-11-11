@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 
 
@@ -6,14 +7,14 @@ long long factorial(int FR);
 
 int main()
 {
-    int number = 0;
+    int number;
 
     cout << "Enter a Number: ";
     cin >> number;
 
     if (number < 0 || number > 20)
     {
-        cout << "Please enter a Positive number. ";
+        cout << "PLEASE ENTER A NUMBER FROM 1 TO 20 ONLY. ";
     }
     else 
     {
